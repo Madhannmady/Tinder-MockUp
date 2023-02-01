@@ -188,8 +188,7 @@ h2{
         text-align: center;
     }
     .brand-image{
-        position: static;
-        transform: rotate(0);
+         visibility: hidden;
         
     }
     
